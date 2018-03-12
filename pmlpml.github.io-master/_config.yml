@@ -1,0 +1,17 @@
+future: true
+permalink: /:title/
+url: http://summer06.github.io
+name: Summer
+author: Summer
+qq: 864409241
+email: 864409241@qq.com
+
+duoshuo: yourname
+beian:
+cnzz:
+weibo:
+github: summer06
+about: "这里是 Summer 的个人博客，创建于 2018 年。"
+
+safe: true
+paginate: 20
