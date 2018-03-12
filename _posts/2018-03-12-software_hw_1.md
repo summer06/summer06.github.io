@@ -7,7 +7,6 @@ layout: post
 1. 简单题
 - 软件工程的定义
   Software engineering is “(1) the application of a systematic, disciplined, quantifiable approach to the development, operation, and maintenance of software, that is, the application of engineering to software,” and “(2) the study of approaches as in (1).” – IEEE Standard 610.12
-
 - 阅读经典名著“人月神话”等资料，解释 software crisis、COCOMO 模型。
   - software crisis：
   Software crisis is a term used in the early days of computing science for the difficulty of writing useful and efficient computer programs in the required time. The software crisis was due to the rapid increases in computer power and the complexity of the problems that could not be tackled. With the increase in the complexity of the software, many software problems arose because existing methods were insufficient.
