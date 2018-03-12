@@ -1,7 +1,7 @@
 ---
+title: First Post
+author: Chris
 layout: post
-title: 我的 Blog 今天开通了……
-date: 2017-12-23 12:00:10+00:00
 ---
 
 我的 Blog 终于开通了……
@@ -10,4 +10,6 @@ date: 2017-12-23 12:00:10+00:00
 
 # h1
 ## h2
-ordinary
+### h3
+
+ordinary **highlight**
